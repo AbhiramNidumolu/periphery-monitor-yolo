@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.pyc
+*.pth
+runs/
+output/
+labelenv/
+.vscode/
+*.zip
+*.egg-info/
+*.log
+.env
+models/yolov8n.pt
+models/best.pt
